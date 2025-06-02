@@ -1,0 +1,4 @@
+build:
+  installCommand: npm install --include=dev
+  buildCommand: npm run build
+  publishPath: dist
